@@ -9,11 +9,11 @@ variable "AWS_AVAILABILITY_ZONES"  {
 }
 
 variable "AWS_ACCESS_KEY" {
-  default = "AKIA5TUBYTAVEPX2LMC4"
+  default = "******************************"
 }
 
 variable "AWS_SECRET_KEY" {
-  default = "7E4SxbZIGbRAOn4rRRYCye1dYMBv1oVr2Ndwumvf"
+  default = "**********************************************"
 }
 
 variable "environment" {
